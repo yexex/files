@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+h2 {
+    color: midnightblue;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+body {
+    background-color: #7FB4D4;
+    font-family: Comfortaa;
+}
+
+p {
+    font-size: 22px;
+    color: crimson;
+    text-align: center;
+}
+
+h3 {
+    color: floralwhite;
+    font-size: 26px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-align: center
+}
+
+
+/* Make sure check that the classes are in the right spots */
+
+a {
+    font-size: 22px;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+}
