@@ -1,6 +1,8 @@
 h1 {
     text-align: center;
-    color: darkgreen;
+    color: darkslategray;
+    font-family: Comfortaa;
+    font-size: 40px;
 }
 
 h2 {
@@ -45,4 +47,9 @@ h4 {
     font-size: 24px;
     text-align: center;
     text-decoration: underline;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
 }
