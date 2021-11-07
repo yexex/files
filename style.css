@@ -52,12 +52,3 @@ h4 {
 .container {
     margin: 0 auto;
 }
-
-iframe {
-    border-radius: 10px;
-    border: 3px solid black;
-    margin: 0 auto;
-    width: 955px;
-    text-align: center;
-    position: relative;
-}
