@@ -61,3 +61,8 @@ iframe {
     text-align: center;
     position: relative;
 }
+
+a.gameboy {
+    font-size: 15px;
+    color: darkblue;
+}
